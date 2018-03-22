@@ -1,0 +1,67 @@
+->concepto de calidad
+	no es absoluto
+	sujeto a restricciones 
+	compromisos aceptados entre partes
+	multidimensional
+.		->la calidad se mide desde diferentes dimensiones y prespectivas 
+	los criterios de calidad son independientes
+
+->calidad del software: el conjunto de caracteristicas que describen un producto
+
+	-se desarrolla( cada producto se debe desarrollar en funcion de las caracteristicas pedidas)
+	-por la complejidad del SW se  consciente  que puede existir defectos (se deben ser publicamente declarados)
+->funcionamiento es nivel elemental de calidad
+
+->funcionalidad nivel intermedio (el software debe hacer lo que se supone debe hacer)
+
+->usabilidad nivel superior de calidad (el producto se puede usar de forma intuitiva)  menor tiempo de capacitacion 
+mayor usabilidad se tiene
+
+
+
+Robustez: resistencia a fallos
+confiabilidad: funcionalidad+robustez
+extensibilidad: facilidad para adaptar cambios
+Reutilizacion: usarse en otros software
+eficiencia: tratar de usar el minimo de recursos 
+
+
+
+
+Gestion de calidad 
+		->planificacion estrategica
+		->asignacion de recursos
+Verificacion comprobar si lso requisitos se estan cumpliendo (si se hace de forma de correcto)
+
+validacion: si se realiza el producto correcto 
+
+
+CUANDO UN PRODUCTO DE SOFTWARE ES CORRECTO : cuando cumple los requerimientos funcionales 
+
+cuando no existen errores de sintaxis
+cunado un programa no existe errores
+sobrevive a la etapa de pruebas
+entradas correctas salidas correctas 
+
+EL responsable de la calidad  es la fabrica de software
+
+
+
+
+Fabrica de software
+
+ recursos humanos 
+infrastructua
+metodologia
+
+
+
+
+Roles 
+
+administrador  --> dios vigi 
+pruebas --> la verga
+configuracion -->dios marin
+analista  -->la perra
+la comida--> la mama de la perra
+arquitecto-->todos
